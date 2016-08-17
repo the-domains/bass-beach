@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bass Beach]]></title>
+        <description><![CDATA[Bass Beach]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 01:28:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Metalheadz Radio on RinseFM by Metalheadz]]></title>
+            <description><![CDATA[<article><h1>Metalheadz Radio on RinseFM by Metalheadz</h1><p>The Metalheadz back catalogue features almost every major figure in the history of the genre. A pioneering and innovative label that crossed boundaries with its releases. The labels releases show</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/345bb03b390b8891f828359ef1b671b5/noop.png?input=http%3A%2F%2Fa1.sndcdn.com%2Fimages%2Ffb_placeholder.png%3F1471271515"></article>]]></description>
+            <link>https://soundcloud.com/metalheadz/sets/metalheadz-radio-on-rinsefm</link>
+            <guid isPermaLink="false">4e21ccd3-15b0-4b46-9a78-c99361e5d29e</guid>
+            <pubDate>Wed, 17 Aug 2016 01:28:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
