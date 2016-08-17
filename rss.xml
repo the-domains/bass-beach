@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Bass Beach]]></title>
         <description><![CDATA[Bass Beach]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bass-beach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 01:28:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 22:06:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bass-beach/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Goldie - Deviation Presents 'Metalheadz History Session', XOYO, London - 27.06.15 by Metalheadz]]></title>
+            <description><![CDATA[<article><h1>Goldie - Deviation Presents 'Metalheadz History Session', XOYO, London - 27.06.15 by Metalheadz</h1><p>For the 3rd and final set of the night we had Goldie taking it back to the 90's in front of a sold out crowd, this is the last of the 3 recordings that we are uploading from this memorable mid-summer event.</p></article>]]></description>
+            <link>https://soundcloud.com/metalheadz/goldie-deviation-presents-metalheadz-history-session-xoyo-london-270615</link>
+            <guid isPermaLink="false">f837b1fc-9e2d-4c19-81b3-b4ad46c15120</guid>
+            <pubDate>Wed, 17 Aug 2016 22:06:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Metalheadz Radio on RinseFM by Metalheadz]]></title>
             <description><![CDATA[<article><h1>Metalheadz Radio on RinseFM by Metalheadz</h1><p>The Metalheadz back catalogue features almost every major figure in the history of the genre. A pioneering and innovative label that crossed boundaries with its releases. The labels releases show</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/345bb03b390b8891f828359ef1b671b5/noop.png?input=http%3A%2F%2Fa1.sndcdn.com%2Fimages%2Ffb_placeholder.png%3F1471271515"></article>]]></description>
